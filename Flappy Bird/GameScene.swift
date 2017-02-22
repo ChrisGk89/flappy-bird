@@ -2,7 +2,6 @@
 //  GameScene.swift
 //  Flappy Bird
 //
-//  Created by Rob Percival on 05/07/2016.
 //  Copyright © 2016 Appfish. All rights reserved.
 //
 
